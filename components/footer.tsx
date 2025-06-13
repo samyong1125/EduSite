@@ -8,7 +8,7 @@ export default function Footer() {
           <div className="md:w-1/3">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <img src="/placeholder.svg?height=40&width=40" alt="로고" className="h-10 w-10 invert" />
-              <span className="font-bold text-lg">지역균형24</span>
+              <span className="font-bold text-lg">ASDF</span>
             </Link>
             <p className="text-sm text-gray-300 mb-4">
               지방에 거주하는 학생 및 구직자들에게 교육과 실무 경험의 기회를 제공하여 지역 간 교육 격차와 취업 불균형을
@@ -95,7 +95,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 mt-8 pt-6 text-sm text-gray-400">
           <div className="flex flex-col md:flex-row justify-between gap-4">
             <div>
-              <p>(우)30116 세종특별자치시 한누리대로 411, 지역균형24 운영팀 | 대표전화: 044-123-4567</p>
+              <p>대구 달서구 월배로 11길 33 110동 1301호 침대 앞 책상 | 대표전화: 010-7143-5219</p>
               <p>© {new Date().getFullYear()} 지역균형24. All rights reserved.</p>
             </div>
             <div>

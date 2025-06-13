@@ -34,6 +34,23 @@
   --radius: 0.5rem;
 }
 
+/* 화면 크기 설정 클래스 */
+html.text-small {
+  font-size: 90%;
+}
+
+html.text-medium {
+  font-size: 100%;
+}
+
+html.text-large {
+  font-size: 110%;
+}
+
+html.text-x-large {
+  font-size: 120%;
+}
+
 .dark {
   --background: #0f172a;
   --foreground: #f8fafc;

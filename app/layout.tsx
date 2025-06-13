@@ -28,7 +28,7 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem={false}>
           <div className="flex min-h-screen flex-col">
             <div className="bg-[#f8f9fa] border-b border-gray-200 text-xs py-1 text-center text-gray-600">
-              이 누리집은 대한민국 공식 지역균형발전 누리집입니다.
+              asdfasdfasdfasdfasdfasdfasdfasdf
             </div>
             <Header />
             <main className="flex-1">{children}</main>
